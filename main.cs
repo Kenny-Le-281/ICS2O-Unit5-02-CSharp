@@ -9,7 +9,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        // This program guesses the correct number
+        // This program determines if an integer is positive or negativechanges in c
         int number;
 
         // input
