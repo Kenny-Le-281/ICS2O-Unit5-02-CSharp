@@ -11,7 +11,7 @@ class Program
     {
         // This program guesses the correct number
         int number;
-        
+
         // input
         Console.WriteLine("Is your number positive or negative?");
 
